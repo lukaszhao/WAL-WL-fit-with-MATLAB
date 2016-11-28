@@ -1,0 +1,14 @@
+HLNFit Design Notes
+
+Main Goal: Allow analysis of raw data.
+Main Parameters: 
+    1. FileName with the raw data
+    2. Type of the function to fit: Full or Truncated
+    3. Initial values of the parameters
+    4. Maximum field
+    5. Whether to consider normal B^2 background?
+    
+    
+Main Results:
+    1. alpha and Bphi or B1, B2, B3, B4 and their interpretation
+    2. Graph with the quality of the fit -- a brunch and an the whole fit
